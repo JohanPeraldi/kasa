@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Formation Développeur d'application - JavaScript React -- Projet 11: Kasa
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
